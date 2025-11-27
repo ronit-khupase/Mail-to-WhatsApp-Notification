@@ -205,7 +205,3 @@ python src/main.py
 
 ## 👨‍💻 Author
 
-Your Name  
-GitHub: https://github.com/ronit-khupase
-GitHub: https://github.com/ronit-khupase
-
